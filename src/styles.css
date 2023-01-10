@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  background-color: hsl(75, 16%, 62%);
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+h2 {
+  background-color: hsl(75, 16%, 62%);
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+h3 {
+  background-color: hsl(75, 16%, 62%);
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin: 1rem;
+}
